@@ -1,0 +1,13 @@
+{
+  "User": {
+    "Id": 3116151,
+    "Username": "baldrrag",
+    "Name": "d",
+    "Email": "baldrrag@gmail.com",
+    "AvatarUrl": "https://secure.gravatar.com/avatar/fdd369f683d2a5b45ac8043e61a68ebc?s=80&d=identicon",
+    "PrivateToken": "59be24c5ca2034d1caf3e45597b3e2b6d28c61f77489cb618c384027fb42957c",
+    "Host": "https://gitlab.com",
+    "TwoFactorEnabled": false,
+    "ApiVersion": 3
+  }
+}
