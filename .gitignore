@@ -4,3 +4,9 @@
 
 *.opendb
 *.ipch
+*.json
+*.obj
+*.idb
+*.pdb
+*.log
+*.tlog

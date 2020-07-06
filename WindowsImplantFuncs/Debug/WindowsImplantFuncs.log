@@ -1,6 +1,0 @@
-﻿  net.cpp
-c:\users\bob\source\repos\cheadley\windowsimplantfuncs\windowsimplantfuncs\net.cpp(15): warning C4018: '<': signed/unsigned mismatch
-  WindowsImplantFuncs.cpp
-  Generating Code...
-net.obj : error LNK2019: unresolved external symbol _NetLocalGroupEnum@28 referenced in function "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __cdecl net_GetLocalGroupNames(void)" (?net_GetLocalGroupNames@@YA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ)
-C:\Users\Bob\source\repos\Cheadley\WindowsImplantFuncs\Debug\WindowsImplantFuncs.exe : fatal error LNK1120: 1 unresolved externals
